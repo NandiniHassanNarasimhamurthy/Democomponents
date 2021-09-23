@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+}
+.alert{
+    background-color: red;
+}
+.alert-danger{
+    color: white;
+    margin-bottom: 15px;
+    text-align:left;
+}
