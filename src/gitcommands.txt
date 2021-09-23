@@ -14,3 +14,10 @@ check status -> git status
 git push --set-upstream origin master (Branch 'master' set up to track remote branch 'master' from 'origin')
 
 random message
+
+Pull latest changes on to the local :(make sure you have a latest code before start your developing code)
+git pull  
+
+create a new branch from the latest code:
+git checkout -b <nameofthebranch>
+check status-> git status
