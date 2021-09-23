@@ -1,0 +1,14 @@
+Steps for the git setup for the initial stage:
+1. create a repository in the my profile in github
+2. check git status -> git status
+3. make sure the directive of you project is showed up
+4. staging the files -> git add .
+5. status chech -> git status
+6. commit the files-> git commit -m "our own comments"
+7. status check 
+8. push to git-> git push (configuration is required before push) 
+
+Configuration from local repository to remote repository steps:
+git remote add origin <url of my created repository>
+check status -> git status
+git push --set-upstream origin master (Branch 'master' set up to track remote branch 'master' from 'origin')
