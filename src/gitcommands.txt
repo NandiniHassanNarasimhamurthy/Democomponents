@@ -21,3 +21,7 @@ git pull
 create a new branch from the latest code:
 git checkout -b <nameofthebranch>
 check status-> git status
+
+Note: Whenever I create a new branch, I should ensure to confirgure the local bracnch to remote branch before pushing
+git checkout --set-upstream origin <branchname>
+later on, I can use git push for the same branch.
