@@ -25,3 +25,7 @@ check status-> git status
 Note: Whenever I create a new branch, I should ensure to confirgure the local bracnch to remote branch before pushing
 git checkout --set-upstream origin <branchname>
 later on, I can use git push for the same branch.
+
+switch from one branch to other:
+I should commit or stash the chnages on current branch before switiching to any other branch.
+
